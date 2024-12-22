@@ -78,7 +78,8 @@ restart(): resets the score, attempts, timer, removes the you-win screen, and re
 startGame(): starts the game by starting the timer, unlocking the board and saving whatever the username the user put in (defaults to “username” if none)  
 
 # Acessing the Game 
-The game is quite simple making it very easy to access. The whole game is available via the github pages. The scores are still saved in between uses even when the game is accessed through github pages. 
+The game is quite simple making it very easy to access. The whole game is available via the github pages. The scores are still saved in between uses even when the game is accessed through github pages link below.
+https://kingsam147.github.io/CS460_Final_Project/index.html
 
 # Future Plans 
 There are a couple of ideas that I had to improve the game. For starters I was thinking of adding different game modes and/or difficulties. I could add an easy mode which would show all the card locations at the beggining before having the user match them; or even a hard mode which would double the amount of cards that the user has to match.  
