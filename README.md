@@ -84,5 +84,3 @@ The game is quite simple making it very easy to access. The whole game is availa
 There are a couple of ideas that I had to improve the game. For starters I was thinking of adding different game modes and/or difficulties. I could add an easy mode which would show all the card locations at the beggining before having the user match them; or even a hard mode which would double the amount of cards that the user has to match.  
 
 The reason that I loved this project idea so much, was for its simplicity along with its flexibilty. As I previously mentioned, I could use the game to study by replacing the goofy/weird images that I had on the cards with study material. I could even change it so that the images were vocab words that matched to their definitions. Honestly there's a lot of different directions that I could go with this project and I'm excited to play around with some different ideas. 
-
-# Test Video 
